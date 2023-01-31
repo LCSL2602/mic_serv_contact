@@ -9,10 +9,10 @@ const contactSchema = mongoose.Schema(
         type:String
     },
     personal_phone:{
-        type:Number
+        type:String
     },
     company_phone:{
-        type:Number
+        type:String
     },
     email:{
         type:String
