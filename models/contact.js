@@ -16,9 +16,6 @@ const contactSchema = mongoose.Schema(
     },
     email:{
         type:String
-    },
-    image:{
-        type:String
     }
 },
 {
